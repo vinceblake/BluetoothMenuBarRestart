@@ -7,7 +7,7 @@ Usage:
 
 from setuptools import setup
 
-APP = ['BluePy.py']
+APP = ['blue.py']
 DATA_FILES = ['bt.png']
 OPTIONS = {
     'plist': {
